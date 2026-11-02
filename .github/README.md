@@ -1,3 +1,3 @@
-# GitHub Configuration
+# Learnhub en Microservices
 
-Repository-level GitHub settings and automation are organized here.
+le Projet Learnhub transformé en architecture Microservices
